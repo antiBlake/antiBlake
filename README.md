@@ -12,9 +12,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antiblake)
 
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antiblake)]
 
 ## Visitor Count
 
